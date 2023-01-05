@@ -31,7 +31,7 @@ public class UserController {
     @Autowired
     private UserServices userServices;
     
-    static boolean isLogin = true;
+    static boolean isLogin = false;
     
     @Autowired
     private UserDao userDao;
