@@ -85,11 +85,10 @@
         <li>Login, Logout Module</li>
         <li>User Module</li>
         <li>Admin Module</li>
-        <li>Booking Management Module</li>
+        <li>Cart Management Module</li>
         <li>Feedback Module</li>
         <li>Report Module</li>
-        <li>Trip Package Management Module</li>
-        <li>Route Mangement Module</li>
+        <li>Product Mangement Module</li>
     </ul>
     <h3 id="features">Features</h3>
     <ul>
