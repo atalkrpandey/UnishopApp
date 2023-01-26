@@ -97,8 +97,8 @@
                 <li>Administrator Role of the entire application</li>
                 <li>Only registered admins with valid session token can add/update/delete Package,Hotel,Route or
                     customer from main database.</li>
-                <li>Admin can access the details of different Routes, Bus, Packages,
-                    TicketDetails,Feedback,Customer,Reports,etc.</li>
+                <li>Admin can access the details of different Product, Cart of users, Payments,
+                    Orders,Feedback,Customer,Reports,etc.</li>
             </ul>
         </li>
         <li>User Features:<ul>
