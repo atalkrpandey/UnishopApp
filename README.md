@@ -1,7 +1,7 @@
 <h2 align="center">✩░▒▓▆▅▃▂▁📚Unishop App📚▁▂▃▅▆▓▒░✩</h2>
 <h2>Project Summary 📚 :</h2>
 <img align="left" width="153" src="https://user-images.githubusercontent.com/103574856/208286121-ecfcf278-948a-4a4c-a912-bfe9f1267dcc.png"/>
-<p align="justify">In this project a detailed review of product delivery system. The main objectives of this project to know the product related information and but it with best facility and current offer. Searching will be very easy .At a single click will be able to fetch the required data. Here with the help of different APIs, many kind of operations can perform from user and admin side with the help of basic http requests. This is a web services API, So all the CRUD operations related to users, products, feedbacks, payments and orders can be easily perfrom and can access data in the form of json data.</p>
+<p align="justify">In this project a detailed review of product delivery system. The main objectives of this project to know the product related information with best brands and current offer. Searching will be very easy .At a single click will be able to fetch the required data. Here with the help of different APIs, many kind of operations can perform from user and admin side with the help of basic http requests. This is a web services API, So all the CRUD operations related to users, products, feedbacks, payments and orders can be easily perfrom and can access data in the form of json data.</p>
 
 
 
