@@ -103,8 +103,8 @@
         </li>
         <li>User Features:<ul>
                 <li>A user can register himself or herself on the platform.</li>
-                <li>He/She can check the Packages and Hotels availabilty.</li>
-                <li>If Trip Package is available, can book the trip package by providing payment details.</li>
+                <li>He/She can check the different kind of products which are available on site.</li>
+                <li>User can add that product to the cart and buy it.</li>
                 <li>After booking, he will get booking details for the whole Package inside this there will be all
                     details regarding the ticket details ,total cost, etc.</li>
                 <li>If the customer want can cancel the booking.</li>
