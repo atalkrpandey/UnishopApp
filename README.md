@@ -105,9 +105,8 @@
                 <li>A user can register himself or herself on the platform.</li>
                 <li>He/She can check the different kind of products which are available on site.</li>
                 <li>User can add that product to the cart and buy it.</li>
-                <li>After booking, he will get booking details for the whole Package inside this there will be all
-                    details regarding the ticket details ,total cost, etc.</li>
-                <li>If the customer want can cancel the booking.</li>
+                <li>He/She can track his/her order delivery status and also can cancel the order.</li>
+                <li>User can also give his/her feedback.</li>
             </ul>
         </li>
     </ul>
