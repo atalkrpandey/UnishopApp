@@ -74,7 +74,6 @@
 </table>
 
 </table>
-
 <hr>
 
 <h3 align="center">MySQL Schema Database Structure</h3>
